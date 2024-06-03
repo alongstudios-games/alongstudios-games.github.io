@@ -1,0 +1,10 @@
+#message {
+	border: 1px solid #555555;
+	padding: 3px;
+}
+img {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}

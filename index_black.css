@@ -1,0 +1,39 @@
+body {
+	background-color: #000000;
+	background-image: url(background.jpg);
+	background-repeat: repeat;
+	color: #999999;
+}
+p {
+	margin: 10px;
+}
+a {
+	color: #999999;
+}
+a:hover {
+	color: #FFFFFF;
+}
+#main {
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#inf, #menu {
+	font-size: small;
+	border: 1px solid #2A2A2A;
+	background-color: #151515;
+	margin-bottom: 20px;
+}
+#inf {
+	margin-top: 20px;
+}
+#menu p {
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+}
+#bottom {
+	font-size: 12px;
+	text-align: center;
+}
